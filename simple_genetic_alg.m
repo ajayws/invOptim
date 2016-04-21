@@ -1,7 +1,3 @@
-%Ujian Akhir Semester Inversi
-%----------%Nama : Adi Wijaya Suchiana-----------------%
-%----------%NIM  : 22313029----------------------------%
-
 % harga maksimum dari f(x)=x+10 sin(5x)+7cos(4x)+25
 % Genetic Algorithm
 %%%----------------------------------------------------%%%
