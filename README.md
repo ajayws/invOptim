@@ -1,6 +1,7 @@
 # invOptim
 
 Inverse and Optimization Problem in Matlab.
+
 Algorithm: 
 1. Least square
 2. Grid Search
